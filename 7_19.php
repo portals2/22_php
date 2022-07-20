@@ -64,3 +64,7 @@ https://www.ebs.co.kr/ebr/notice/show/10007307339?p=Yy5wYWdlPTEmYy5wYWdlU2l6ZT0y
 부분이라고 생각한다. 
 나는 이런 장인정신을 가지고 있는 일본에서 세계를 놀라게 할 프로그램을 만드는데
 일조하고 싶어서 지원한다. 
+
+Yai Caramba!
+RUST입문서
+https://rinthel.github.io/rust-lang-book-ko/ch00-00-introduction.html
